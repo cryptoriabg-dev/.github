@@ -17,6 +17,8 @@ The project is available through the official WordPress Plugin Directory.
 
 [View Cryptoria Sats Converter on WordPress.org](https://wordpress.org/plugins/cryptoria-sats-converter/)
 
+[View Source Code on GitHub](https://github.com/cryptoriabg-dev/cryptoria-sats-converter)
+
 ## Contributing
 
 We welcome technical feedback, bug reports, and contributions to our public open-source projects.
